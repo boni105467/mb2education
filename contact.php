@@ -135,7 +135,7 @@
                             </div>
                             <div class="mt-n1">
                                 <h4>Our Location</h4>
-                                <p class="m-0">123 Street, New York, USA</p>
+                                <p class="m-0">123 Street, Jehanabad, India</p>
                             </div>
                         </div>
                         <div class="d-flex align-items-center mb-5">
@@ -144,7 +144,7 @@
                             </div>
                             <div class="mt-n1">
                                 <h4>Call Us</h4>
-                                <p class="m-0">+012 345 6789</p>
+                                <p class="m-0">+91 6201451083</p>
                             </div>
                         </div>
                         <div class="d-flex align-items-center">
@@ -153,7 +153,7 @@
                             </div>
                             <div class="mt-n1">
                                 <h4>Email Us</h4>
-                                <p class="m-0">info@example.com</p>
+                                <p class="m-0">boni105467@gmail.com</p>
                             </div>
                         </div>
                     </div>
@@ -161,7 +161,7 @@
                 <div class="col-lg-7">
                     <div class="section-title position-relative mb-4">
                         <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Need Help?</h6>
-                        <h1 class="display-4">Send Us A Message</h1>
+                        <h1 class="display-4">Send Us a Message</h1>
                     </div>
                     <div class="contact-form">
                         <form>
@@ -199,7 +199,7 @@
                     <a href="index.html" class="navbar-brand">
                         <h1 class="mt-n2 text-uppercase text-white"><i class="fa fa-book-reader mr-3"></i>MB2</h1>
                     </a>
-                    <p class="m-0">Accusam nonumy clita sed rebum kasd eirmod elitr. Ipsum ea lorem at et diam est, tempor rebum ipsum sit ea tempor stet et consetetur dolores. Justo stet diam ipsum lorem vero clita diam</p>
+                    <p class="m-0"> The education dream begins, most of the time, with a teacher who believes in you, who tugs and pushes and leads you on to the next plateau, sometimes poking you with a sharp stick called truth.</p>
                 </div>
                 <div class="col-md-6 mb-5">
                     <h3 class="text-white mb-4">Newsletter</h3>
@@ -216,9 +216,9 @@
             <div class="row">
                 <div class="col-md-4 mb-5">
                     <h3 class="text-white mb-4">Get In Touch</h3>
-                    <p><i class="fa fa-map-marker-alt mr-2"></i>123 Street, New York, USA</p>
-                    <p><i class="fa fa-phone-alt mr-2"></i>+012 345 67890</p>
-                    <p><i class="fa fa-envelope mr-2"></i>info@example.com</p>
+                    <p><i class="fa fa-map-marker-alt mr-2"></i>Jehanabad, Bihar, India, 808420</p>
+                    <p><i class="fa fa-phone-alt mr-2"></i>+91 6201451083</p>
+                    <p><i class="fa fa-envelope mr-2"></i>boni105467@gail.com</p>
                     <div class="d-flex justify-content-start mt-4">
                         <a class="text-white mr-4" href="#"><i class="fab fa-2x fa-twitter"></i></a>
                         <a class="text-white mr-4" href="#"><i class="fab fa-2x fa-facebook-f"></i></a>
@@ -253,11 +253,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-center text-md-left mb-3 mb-md-0">
-                    <p class="m-0">Copyright &copy; <a class="text-white" href="#">Your Site Name</a>. All Rights Reserved.
+                    <p class="m-0">Copyright &copy; <a class="text-white" href="#">MB2</a>. All Rights Reserved.
                     </p>
                 </div>
                 <div class="col-md-6 text-center text-md-right">
-                    <p class="m-0">Designed by <a class="text-white" href="https://htmlcodex.com">HTML Codex</a>
+                    <p class="m-0">Designed by Megha Boni <a class="text-white" href="https://htmlcodex.com"></a>
                     </p>
                 </div>
             </div>
