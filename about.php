@@ -137,7 +137,7 @@
                         <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">About Us</h6>
                         <h1 class="display-4">First Choice For Online Education Anywhere</h1>
                     </div>
-                    <p>Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos sadipscing labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor consetetur takimata eirmod, dolores takimata consetetur invidunt magna dolores aliquyam dolores dolore. Amet erat amet et magna</p>
+                    <p>Online education is the form of education that takes place over internet. Student can study the online course material during their own time. Online lectures can be attended from the comfort of your home. Online education can cost less as there is no cost for commuting. It helps to save time as students don't have to travel for online learning.</p>
                     <div class="row pt-3 mx-0">
                         <div class="col-3 px-0">
                             <div class="bg-success text-center p-4">
